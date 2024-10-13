@@ -26,3 +26,6 @@ int main() {
     
     return 0;
 }
+
+// The process works by breaking the problem into small subproblems. The recursive function continuously breaking the problem down into smaller subproblems until it reaches the base case where N  = 1
+// The time complexity of the Tower of Hanoi is O(2n).
