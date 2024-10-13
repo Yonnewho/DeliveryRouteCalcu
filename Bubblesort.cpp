@@ -109,3 +109,6 @@ int main() {
 
     return 0;
 }
+
+//Bubble Sort, O(n) if the list is already sorted, the only thing that bubble sort needs to do is pass through the list once, performing N - 1 comparisons but no swaps
+//Merge Sort, O(n log n) for all cases because of splitting the list in half log N times, and for each split, it takes O(n) to merge the two halves.
