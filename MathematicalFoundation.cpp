@@ -35,3 +35,6 @@ int main() {
 
     return 0;
 }
+
+//The first is to ask for the number of points then takes the coordinates for each points. It calculates the distance between each pair of consecutive points using the calculateDistance. 
+//Also, the summation function computes for the sum using the formula. The program output the total distance traveled between the points and the sum of the first N natural numbers.
